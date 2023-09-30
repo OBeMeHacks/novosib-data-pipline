@@ -1,0 +1,4 @@
+[core]
+    remote = hackathon
+['remote "hackathon"']
+    url = https://github.com/OBeMeHacks/novosib-data-pipline.git
